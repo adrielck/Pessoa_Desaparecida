@@ -22,7 +22,7 @@ Após assistir ao vídeo, capturei o frame onde aparece uma roda-gigante. Utiliz
 
 ### 2. Identificação da localização
 
-Na busca reversa, percebi que a roda-gigante ficava em **Dubai**, próxima ao **Pier de San Diego**. Fui direto ao Google Maps para investigar melhor a área:
+Na busca reversa, percebi que a roda-gigante era em **Dubai**, próxima ao **Pier de San Diego**. Fui direto ao Google Maps para investigar melhor a área:
 
 ![Imagem 2](https://github.com/adrielck/Pessoa_Desaparecida/blob/main/04.png)
 
